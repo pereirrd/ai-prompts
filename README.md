@@ -4,6 +4,10 @@
 
 Collection of prompts for use with AI models (ChatGPT, Claude, Cursor, etc.).
 
+## Prompts
+
+- [Git: How to find a bug](git_find_bug/README.md) — Guide to investigate and locate bugs using Git commands
+
 ## Status
 
 🚜 Project under construction.
