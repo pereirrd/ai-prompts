@@ -1,8 +1,8 @@
+[English](README.md) | [Português](README.pt-br.md)
+
 # AI Prompts
 
 Colección de prompts para uso con modelos de IA (ChatGPT, Claude, Cursor, etc.).
-
-**Otros idiomas:** [English](README.md) · [Português](README.pt.md)
 
 ## Estado
 
