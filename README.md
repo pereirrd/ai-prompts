@@ -7,6 +7,7 @@ Collection of prompts for use with AI models (ChatGPT, Claude, Cursor, etc.).
 ## Prompts
 
 - [Git: How to find a bug](git_find_bug/README.md) — Guide to investigate and locate bugs using Git commands
+- [Multilingual README](readme_multilang/README.md) — Prompts to create or update project READMEs in English, Portuguese, and Spanish
 
 ## Status
 
@@ -20,6 +21,3 @@ Gather and organize useful prompts for different contexts of development, produc
 
 Contributions are welcome. Submit a pull request or open an issue with suggestions.
 
-## License
-
-To be defined.
